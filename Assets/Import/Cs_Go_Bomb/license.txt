@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cs Go Bomb
+* source:	https://sketchfab.com/3d-models/cs-go-bomb-ca6b5adeeda647a9ac40f09dde162500
+* author:	DFS studio (https://sketchfab.com/DFS_studio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cs Go Bomb" (https://sketchfab.com/3d-models/cs-go-bomb-ca6b5adeeda647a9ac40f09dde162500) by DFS studio (https://sketchfab.com/DFS_studio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

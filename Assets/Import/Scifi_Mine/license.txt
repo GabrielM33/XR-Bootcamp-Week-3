@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scifi Mine
+* source:	https://sketchfab.com/3d-models/scifi-mine-69a9ae4a287b44a89abe09118353a4fb
+* author:	sc8di (https://sketchfab.com/sc8di)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scifi Mine" (https://sketchfab.com/3d-models/scifi-mine-69a9ae4a287b44a89abe09118353a4fb) by sc8di (https://sketchfab.com/sc8di) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
